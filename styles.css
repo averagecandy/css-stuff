@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-image: url("bayside.jpg");
+   background-size: cover;
+}
+
+header {
+    display: flex;
+    color:blueviolet;
+    text-align: center;
+}
+section {
+   color: white;
+}
+article {
+    padding: 10px;
+    margin: 10px;
+}
