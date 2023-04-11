@@ -5,7 +5,7 @@
     /* flex-wrap: wrap; */
     justify-content: space-around;
     align-items:center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Share Tech Mono', monospace;
     background-color: #020204;
     padding: 0.5em;
     /* margin-top: auto; */
@@ -21,3 +21,7 @@
   width: 200px;
   height: 150px;
 }
+
+.img {
+    border-radius: 25px;
+    }
