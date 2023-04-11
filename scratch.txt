@@ -1,0 +1,18 @@
+<div="header"><h1>bayside</h1></div>
+   
+    <div id="section">
+        <h2>meaningful lyrics</h2>
+    
+    <div id="article">
+        <h3>Choice Hops and Bottled Self Esteem</h3>
+        <p>They say that scent is the strongest sense</p>
+            <p>It's tied to memories</p>
+    </div>
+    <div id="article">
+        <h3>they looked like strong hands</h3>
+        <p>strong hands</p>
+    </div>
+    <div id="article">
+        <h3>interrobang</h3>
+        <p>jacks lament</p>
+    </div>
