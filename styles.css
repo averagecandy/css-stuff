@@ -17,17 +17,26 @@ header {
     font-family: 'Share Tech Mono', monospace;
     display: flex;
 }
-.nav{
+.nav {
     background-color: #204809;
     padding: 2px;
     flex-grow: 1;
     list-style: none;
 }
-.nav-list {
+.nav_list {
     list-style: none;
     background-color: #80ce87;
     margin: 0;
     padding: 0;
+    border-radius: 5px;
+}
+
+.nav_list a {
+    color: #788474;
+}
+.nav_list a:hover,
+.nav_list a:focus {
+    color: #375737;
 }
 .h1 {
     color: #204809;
